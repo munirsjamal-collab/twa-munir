@@ -1,0 +1,54 @@
+{
+  "numberOfItems": 8,
+  "total": 199.29,
+  "categories": [
+    "fantasy",
+    "fiction",
+    "programming",
+    "science-fiction"
+  ],
+  "top3": [
+    {
+      "id": 7,
+      "name": "The Pragmatic Programmer",
+      "category": "programming",
+      "price": 35,
+      "tags": [
+        "dev",
+        "software"
+      ],
+      "author": {
+        "name": "David Thomas",
+        "country": "US"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Clean Code",
+      "category": "programming",
+      "price": 32.5,
+      "tags": [
+        "dev",
+        "clean code"
+      ],
+      "author": {
+        "name": "Robert C. Martin",
+        "country": "US"
+      }
+    },
+    {
+      "id": 3,
+      "name": "You Don't Know JS Yet",
+      "category": "programming",
+      "price": 29.99,
+      "tags": [
+        "javascript",
+        "dev"
+      ],
+      "author": {
+        "name": "Kyle Simpson",
+        "country": "US"
+      }
+    }
+  ]
+}
